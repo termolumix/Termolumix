@@ -1,9 +1,5 @@
-![lazy](https://user-images.githubusercontent.com/64088838/127237557-c8f0ae98-0a06-4391-8d7f-1e3a6197d2e5.png)
+Hello Word ! 
+I am Lumix a French Human Working on Kali linux for 3 Years
 
-Echo -n " Hello There Welcome to my profil here you can Find Info about me and what i do :)";
-read;
-if [ $visiteur = "happy" ];then
-  echo "have a nice day"
-else
-  *give flower*
-fi
+![lazy-ConvertImage](https://user-images.githubusercontent.com/64088838/127240279-d3462547-2404-4002-bc92-0cdb1d9b123a.png)
+
